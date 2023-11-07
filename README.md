@@ -39,7 +39,7 @@ The first plot shows the number of startups per city. Cities with more startups 
 ### Design Industry Analysis
 The second bar plot displays the number of design-related companies in each city. This information is crucial as our designers prefer to be near a vibrant design community.
 
-![alt text](https://raw.githubusercontent.com/UriCVV/data-project-III/main/img/top_cities_design.png)
+![alt text](https://raw.githubusercontent.com/UriCVV/data-project-III/main/img/top_cities_design_companies.png)
 
 ### District Scoring Maps
 Two GeoJSON maps provide a visual score for districts within New York City and San Francisco. The scores are based on our weighted criteria, with color gradients representing the suitability of each district.
