@@ -1,0 +1,205 @@
+name,distance,zip_code,location,Type
+Starbucks,1566.0,94303,"[37.447938, -122.126298]",starbucks
+Starbucks,1628.0,94306,"[37.427314, -122.149185]",starbucks
+Starbucks,1303.0,94306,"[37.426804, -122.144077]",starbucks
+Starbucks,1984.0,94306,"[37.417438, -122.13053]",starbucks
+Starbucks,2963.0,94303,"[37.461688, -122.137232]",starbucks
+Starbucks,3589.0,94043,"[37.421896, -122.096431]",starbucks
+Starbucks,3517.0,94304,"[37.443647, -122.171784]",starbucks
+Starbucks,4342.0,94043,"[37.411431, -122.094274]",starbucks
+Starbucks,4163.0,94040,"[37.401816, -122.111913]",starbucks
+Starbucks,4380.0,94025,"[37.450846, -122.179059]",starbucks
+Starbucks,5815.0,94025,"[37.423504, -122.197829]",starbucks
+Starbucks,5970.0,94043,"[37.402943, -122.079347]",starbucks
+Starbucks,4836.0,94025,"[37.452272, -122.183719]",starbucks
+Starbucks,5983.0,94040,"[37.390938, -122.094708]",starbucks
+Starbucks,5256.0,94025,"[37.480223, -122.151229]",starbucks
+Starbucks,5378.0,94043,"[37.415763, -122.077554]",starbucks
+Starbucks,3510.0,94305,"[37.424314, -122.170837]",starbucks
+Starbucks,4041.0,94040,"[37.402802, -122.112325]",starbucks
+Community School Of Music And Arts Finn Center,3663.0,94040,"[37.407385, -122.111079]",school
+Jordan Middle School,419.0,94303,"[37.438477, -122.134642]",school
+Stratford School - Palo Alto,656.0,94303,"[37.441307, -122.131795]",school
+Ohlone Elementary School,1004.0,94303,"[37.439316, -122.122738]",school
+El Carmelo Elementary School,1169.0,94306,"[37.425576, -122.130413]",school
+Friends Nursery School,1190.0,94303,"[37.437943, -122.120443]",school
+Khan Lab School,1318.0,94306,"[37.426572, -122.123528]",school
+New Mozart School of Music,1625.0,94306,"[37.426332, -122.148271]",school
+Palo Alto High School,1918.0,94301,"[37.436053, -122.155615]",school
+Addison Elementary School,1932.0,94301,"[37.446036, -122.150881]",school
+The Girls' Middle School,2090.0,94303,"[37.435467, -122.109927]",school
+Fairmeadow Elementary School,2101.0,94306,"[37.422075, -122.117337]",school
+Jane Lathrop Stanford Middle School,2127.0,94306,"[37.420438, -122.117746]",school
+Advantage Aviation,2691.0,94303,"[37.453927, -122.114322]",school
+West Valley Flying Club,2703.0,94303,"[37.454463, -122.115068]",school
+Avery Aquatic Center,2429.0,94305,"[37.429469, -122.164474]",school
+AJ Tutoring,1424.0,94306,"[37.426957, -122.146017]",school
+Byers Eye Institute at Stanford,1951.0,94303,"[37.448496, -122.12046]",school
+Palo Alto Community Child Care,1989.0,94306,"[37.417746, -122.128114]",school
+Juana Briones Elementary School,3056.0,94306,"[37.407752, -122.130273]",school
+Pre-School Family,3181.0,94303,"[37.417309, -122.105836]",school
+Bowman International School,3625.0,94306,"[37.402722, -122.127774]",school
+Henry M. Gunn High School,3719.0,94306,"[37.402682, -122.134139]",school
+Stanford University School of Medicine Career Center,3741.0,94305,"[37.432007, -122.179426]",school
+Menlo-Atherton High School,4690.0,94027,"[37.460972, -122.175051]",school
+Nativity Elementary School,4988.0,94025,"[37.458282, -122.182198]",school
+Crittenden Middle School,5017.0,94043,"[37.410937, -122.085301]",school
+Oak Knoll Elementary School,5246.0,94025,"[37.430185, -122.192128]",school
+Pinewood School - Upper Campus,5252.0,94022,"[37.387984, -122.142328]",school
+Theuerkauf Elementary School,5456.0,94043,"[37.405389, -122.084492]",school
+Menlo School,5464.0,94027,"[37.453352, -122.191722]",school
+Hillview Middle School,5512.0,94025,"[37.439935, -122.195469]",school
+Stevenson PACT School,5564.0,94043,"[37.403825, -122.083904]",school
+Encinal Elementary School,5657.0,94027,"[37.464487, -122.186485]",school
+Sacred Heart Schools,5705.0,94027,"[37.44799, -122.195997]",school
+Los Altos High School,5859.0,94022,"[37.386743, -122.109068]",school
+LAHS Administration Building,5959.0,94022,"[37.385385, -122.108349]",school
+Frost Amphitheatre Gs,2906.0,94305,"[37.430474, -122.165961]",school
+Arrillaga Outdoor Education and Recreation Center,3998.0,94305,"[37.426676, -122.17748]",school
+Bing Concert Hall,2931.0,94305,"[37.43203, -122.166192]",school
+Laird Q. Cagan Stadium At Maloney Field,2177.0,94305,"[37.433112, -122.158168]",school
+Stanford Stadium,2427.0,94305,"[37.434483, -122.16116]",school
+Maples Pavilion,2470.0,94305,"[37.42949, -122.160612]",school
+Arrillaga Center for Sports & Recreation,2730.0,94305,"[37.429913, -122.163784]",school
+Arbuckle Café,2683.0,94305,"[37.428289, -122.16269]",school
+Stanford Graduate School of Business,2692.0,94305,"[37.428208, -122.161112]",school
+Stanford Visitor Center,2696.0,94305,"[37.431528, -122.16366]",school
+Graduate Community Center,2543.0,94305,"[37.423452, -122.158483]",school
+John & Cynthia Fry Gunn Building,2897.0,94305,"[37.429124, -122.165599]",school
+Frances C. Arrillaga Alumni Center,2786.0,94305,"[37.430688, -122.164829]",school
+Friday Night Waltz,2586.0,94301,"[37.449338, -122.156792]",night_club
+The Patio,2907.0,94301,"[37.445176, -122.163928]",night_club
+Bachata Sentimiento,3670.0,94305,"[37.423219, -122.172349]",night_club
+Pet Food Express,2708.0,94303,"[37.418863, -122.110145]",pet
+Bow Wow Meow,4857.0,94025,"[37.452501, -122.184161]",pet
+Palo Alto Animal Service,2103.0,94303,"[37.437866, -122.109846]",pet
+PetSmart,3567.0,94043,"[37.422672, -122.096097]",pet
+Banfield Pet Hospital,3590.0,94043,"[37.422869, -122.096127]",pet
+Unleashed by Petco,4282.0,94025,"[37.44974, -122.178496]",pet
+Allied Arts Guild,4074.0,94025,"[37.44148, -122.178959]",pet
+Pet Food Depot,1484.0,94306,"[37.422126, -122.137232]",pet
+Just Food For Dogs,2701.0,94303,"[37.418983, -122.110295]",pet
+Pet Parlor,3868.0,94043,"[37.414203, -122.098078]",pet
+Petco,5659.0,94040,"[37.392972, -122.097397]",pet
+Garden Court Hotel,2657.0,94301,"[37.447876, -122.158856]",pet
+Citydog! Club - Mounta,5430.0,94040,"[37.394762, -122.098927]",pet
+A Dog's Life,3236.0,94303,"[37.422743, -122.100557]",pet
+Annette the Pet Nanny,1947.0,94306,"[37.414031, -122.11839]",pet
+VIP PetCare,4877.0,94025,"[37.452529, -122.184234]",pet
+Adobe Animal Hospital,4001.0,94022,"[37.401768, -122.115702]",pet
+Paws and Purrs Pet Sitting,778.0,94303,"[37.432915, -122.125099]",pet
+WOOF! Pet Sitting Service,2271.0,94301,"[37.438433, -122.158897]",pet
+Sirius Puppy Training,2735.0,94303,"[37.418863, -122.110145]",pet
+SIRIUS Puppy & Dog Training,2916.0,94303,"[37.418187, -122.108175]",pet
+Critter Couch Company,3855.0,94040,"[37.404269, -122.113337]",pet
+Norcal Golden Retriever Rescue,4137.0,94025,"[37.449784, -122.176566]",pet
+Flying Panda Gift Catalog,5072.0,94025,"[37.454533, -122.185492]",pet
+Mo4paws,5102.0,94043,"[37.404647, -122.090176]",pet
+Pet Square,5379.0,94040,"[37.39695, -122.095901]",pet
+Dog Nose Best,774.0,94303,"[37.432877, -122.125169]",pet
+Heidis Dog Grooming,3890.0,94043,"[37.414203, -122.098078]",pet
+Kevin Walks Dogs,5571.0,94025,"[37.483471, -122.149837]",pet
+Fernqvist Labeling Solutions,37172.0,94043,"[37.419829, -122.099608]",pet
+Stylish Mo,1472.0,94306,"[37.422802, -122.127109]",pet
+Classic Pet Grooming,2994.0,94306,"[37.409008, -122.124763]",pet
+Menlo Park Smitten Kitten,3834.0,94025,"[37.463688, -122.157743]",pet
+Pawfection Pet Care,4213.0,94043,"[37.407085, -122.101259]",pet
+Pogoseat with Stanford Cardinal Basketball,2464.0,94305,"[37.429556, -122.160615]",basketball_court
+JCC Basketball Courts,3017.0,94303,"[37.423147, -122.102655]",basketball_court
+Team Esface Basketball Training,3343.0,94303,"[37.464741, -122.138048]",basketball_court
+Basketball,3749.0,94305,"[37.431839, -122.175911]",basketball_court
+Facebook Basketball Courts,5431.0,94025,"[37.482271, -122.150557]",basketball_court
+Googleplex - CL4 Basketball Court,5688.0,94043,"[37.422774, -122.087534]",basketball_court
+Scott Park,2146.0,94301,"[37.443142, -122.155623]",basketball_court
+Terman Park,3792.0,94306,"[37.401822, -122.12708]",basketball_court
+Impact Basketball,2588.0,94303,"[37.43057, -122.104715]",basketball_court
+Maples Pavilion,2470.0,94305,"[37.42949, -122.160612]",basketball_court
+Robles Park,2397.0,94306,"[37.41542, -122.12226]",basketball_court
+Onetta Harris Community Center,5723.0,94025,"[37.478817, -122.168115]",basketball_court
+Rengstorff Park,5032.0,94040,"[37.401966, -122.096824]",basketball_court
+Dr Edith Eugenie Johnson Park,3094.0,94301,"[37.450134, -122.163349]",basketball_court
+VMware Gym,3964.0,94304,"[37.400323, -122.14352]",basketball_court
+Boulware Park,1544.0,94306,"[37.421101, -122.13467]",basketball_court
+Whisman Sports Center,5120.0,94043,"[37.411507, -122.086478]",basketball_court
+Pet Food Express,2708.0,94303,"[37.418863, -122.110145]",pet_grooming
+Law Offices of Peter N. Brewer,1080.0,94306,"[37.42795, -122.141851]",pet_grooming
+Law Office of Peter S. Stern,1268.0,94306,"[37.428215, -122.144943]",pet_grooming
+Alexanders Grooming Salon,1349.0,94306,"[37.426532, -122.144204]",pet_grooming
+Leaf & Petal,1428.0,94306,"[37.425865, -122.144811]",pet_grooming
+Pet Food Depot,1484.0,94306,"[37.422126, -122.137232]",pet_grooming
+Banfield Pet Hospital,3590.0,94043,"[37.422869, -122.096127]",pet_grooming
+PetSmart,3567.0,94043,"[37.422672, -122.096097]",pet_grooming
+Annette the Pet Nanny,1947.0,94306,"[37.414031, -122.11839]",pet_grooming
+Happy House Pet Sitting,217.0,94301,"[37.433172, -122.132771]",pet_grooming
+Peaceful Pathways In-Home Pet Hospice and Euthanasia Services,334.0,94306,"[37.434137, -122.129891]",pet_grooming
+Peter Lonsky,617.0,94303,"[37.435302, -122.126521]",pet_grooming
+Nancy Peters Adult Child Psychotherapist Palo Alto,633.0,94306,"[37.432301, -122.127212]",pet_grooming
+Paws and Purrs Pet Sitting,778.0,94303,"[37.432915, -122.125099]",pet_grooming
+VIP Petcare,2747.0,94303,"[37.418797, -122.110141]",pet_grooming
+Les Petits Cadeaux,2749.0,94301,"[37.447499, -122.160409]",pet_grooming
+Peter Fox Photography,970.0,94306,"[37.426309, -122.133388]",pet_grooming
+Unleashed by Petco,4282.0,94025,"[37.44974, -122.178496]",pet_grooming
+Peter Voll Associates,1117.0,94301,"[37.438101, -122.14557]",pet_grooming
+Rose Petals Skin Studio,1140.0,94306,"[37.428488, -122.143456]",pet_grooming
+Twig and Petals,3163.0,94025,"[37.459204, -122.152767]",pet_grooming
+Suhr Peter C,1176.0,94306,"[37.426305, -122.141044]",pet_grooming
+Alexander's Dog Grooming,1338.0,94306,"[37.42656, -122.144278]",pet_grooming
+Lockhart Peter D Landscape Design,1386.0,94306,"[37.423317, -122.138873]",pet_grooming
+Goldscheider Peter F Attorney At Law,1443.0,94306,"[37.426723, -122.146075]",pet_grooming
+Petroway,1471.0,94303,"[37.434863, -122.116835]",pet_grooming
+Grooming Works,3653.0,94022,"[37.404207, -122.119129]",pet_grooming
+Pet Parlor,3868.0,94043,"[37.414203, -122.098078]",pet_grooming
+WOOF! Pet Sitting Service,2271.0,94301,"[37.438433, -122.158897]",pet_grooming
+Stanford Pet Clinic,2346.0,94306,"[37.414688, -122.12644]",pet_grooming
+Palo Alto Pet Hospital,2346.0,94301,"[37.414688, -122.12644]",pet_grooming
+Mell Beryl D DVM Stanford Pet Clinic,2350.0,94306,"[37.414661, -122.126367]",pet_grooming
+The Pet Place,4851.0,94025,"[37.450985, -122.184719]",pet_grooming
+Rain or Shine Pet Services,2499.0,94301,"[37.440039, -122.161134]",pet_grooming
+Pet Food Express,2718.0,94303,"[37.419021, -122.110225]",pet_grooming
+Peninsula Pet Hospital,5324.0,94025,"[37.457066, -122.187138]",pet_grooming
+Classic Pet Grooming,2994.0,94306,"[37.409008, -122.124763]",pet_grooming
+All Fur Love Pet Grooming,3177.0,94025,"[37.459166, -122.152836]",pet_grooming
+Tails Up Pet Care,3263.0,94301,"[37.448468, -122.166403]",pet_grooming
+Heidis Dog Grooming,3890.0,94043,"[37.414203, -122.098078]",pet_grooming
+Pawfection Pet Care,4213.0,94043,"[37.407085, -122.101259]",pet_grooming
+Menlo Park Feed & Pet Supply,4984.0,94025,"[37.45503, -122.18409]",pet_grooming
+Aussie Pet Mobile,5042.0,94043,"[37.407556, -122.088048]",pet_grooming
+Pet Square,5379.0,94040,"[37.39695, -122.095901]",pet_grooming
+Little River Pet Shop,5716.0,94043,"[37.400386, -122.085645]",pet_grooming
+True Food Kitchen,3387.0,94304,"[37.443897, -122.170222]",vegan
+Wildseed,2254.0,94301,"[37.438956, -122.158927]",vegan
+Veggie Grill,4048.0,94040,"[37.402802, -122.112325]",vegan
+Veggie Garden,4564.0,94040,"[37.399236, -122.108621]",vegan
+California Avenue Farmers' Market,1383.0,94306,"[37.425362, -122.145856]",vegan
+Philz Coffee,1124.0,94306,"[37.429583, -122.122694]",vegan
+Tamarine Restaurant,2698.0,94301,"[37.448804, -122.158265]",vegan
+Sweetgreen,2648.0,94301,"[37.444705, -122.160968]",vegan
+Sprinkles,3587.0,94304,"[37.442323, -122.172854]",vegan
+So Gong Dong Tofu House,2475.0,94306,"[37.413781, -122.125388]",vegan
+Mediterranean Wraps,1429.0,94306,"[37.426033, -122.144749]",vegan
+INDO Restaurant & Lounge,1596.0,94306,"[37.420972, -122.136881]",vegan
+Mollie Stone's,1104.0,94306,"[37.428994, -122.143269]",vegan
+Nola,2697.0,94301,"[37.445076, -122.161275]",vegan
+Bare Bowls,2740.0,94301,"[37.444181, -122.162298]",vegan
+Rangoon Ruby,2841.0,94301,"[37.445184, -122.162927]",vegan
+Curry Up Now,2620.0,94301,"[37.445503, -122.160369]",vegan
+Tender Greens,3376.0,94304,"[37.443388, -122.17041]",vegan
+Darbar Indian Cuisine,2970.0,94301,"[37.444793, -122.165123]",vegan
+CoHo,3512.0,94305,"[37.42421, -122.170902]",vegan
+Local Union 271,2783.0,94301,"[37.445769, -122.162101]",vegan
+Amici's East Coast Pizzeria,4933.0,94025,"[37.450238, -122.185965]",vegan
+Galata Bistro,4881.0,94025,"[37.450421, -122.18526]",vegan
+Coupa Cafe - Y2E2,3768.0,94305,"[37.428314, -122.175712]",vegan
+Baskin-Robbins,4878.0,94025,"[37.450215, -122.185391]",vegan
+Fairchilds Public House,4028.0,94040,"[37.403797, -122.110378]",vegan
+La Stanza Cucina Italiana,4951.0,94025,"[37.453514, -122.184648]",vegan
+Googleplex - Pixel,5275.0,94043,"[37.422488, -122.075709]",vegan
+Cafe Baser,5621.0,94025,"[37.484214, -122.149092]",vegan
+Sweetgreen,1682.0,94306,"[37.421313, -122.141565]",vegan
+Sweetgreen,2548.0,94301,"[37.446525, -122.158506]",vegan
+Sweetgreen,2619.0,94305,"[37.427243, -122.161525]",vegan
+Sweetgreen,2925.0,94304,"[37.411713, -122.148881]",vegan
+Sweetgreen,3121.0,94304,"[37.408569, -122.145355]",vegan
+Sweetgreen,3775.0,94304,"[37.435732, -122.176287]",vegan
+Sweetgreen,3877.0,94022,"[37.402753, -122.11685]",vegan
+Sweetgreen,5132.0,94025,"[37.455335, -122.185769]",vegan

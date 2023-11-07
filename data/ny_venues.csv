@@ -1,0 +1,333 @@
+name,distance,zip_code,location,Type
+Starbucks,797.0,10281,"[40.714207, -74.01571]",starbucks
+Starbucks,361.0,10038,"[40.711054, -74.004761]",starbucks
+Starbucks,454.0,10013,"[40.718154, -74.007443]",starbucks
+Starbucks,286.0,10013,"[40.715842, -74.003205]",starbucks
+Starbucks,65.0,10007,"[40.714957, -74.006007]",starbucks
+Starbucks,1107.0,10004,"[40.705218, -74.011119]",starbucks
+Starbucks,261.0,10007,"[40.713794, -74.009103]",starbucks
+Starbucks,303.0,10038,"[40.711598, -74.006572]",starbucks
+Starbucks,842.0,10013,"[40.720643, -74.011121]",starbucks
+Starbucks,571.0,10038,"[40.710936, -74.001178]",starbucks
+Starbucks,1251.0,10004,"[40.704471, -74.012791]",starbucks
+Starbucks,752.0,10006,"[40.708778, -74.011086]",starbucks
+Starbucks,1055.0,10005,"[40.704784, -74.007262]",starbucks
+Starbucks,662.0,10038,"[40.708397, -74.007274]",starbucks
+Starbucks,626.0,10013,"[40.719839, -74.004978]",starbucks
+Starbucks,1020.0,10006,"[40.705326, -74.011123]",starbucks
+Starbucks,1412.0,10004,"[40.703248, -74.014139]",starbucks
+Starbucks,293.0,10007,"[40.715528, -74.008823]",starbucks
+Starbucks,477.0,10038,"[40.710262, -74.00809]",starbucks
+Starbucks,585.0,10013,"[40.718826, -74.002581]",starbucks
+Starbucks,1685.0,10014,"[40.729279, -74.004959]",starbucks
+Starbucks,3044.0,10011,"[40.741623, -74.005316]",starbucks
+Starbucks,1482.0,10012,"[40.726874, -74.000192]",starbucks
+Starbucks,1140.0,10012,"[40.722492, -73.997896]",starbucks
+Starbucks,2652.0,07310,"[40.726299, -74.033087]",starbucks
+Starbucks,838.0,10013,"[40.71973, -73.999081]",starbucks
+Starbucks,1113.0,10005,"[40.704571, -74.00913]",starbucks
+Starbucks,2116.0,10014,"[40.733063, -74.002707]",starbucks
+Starbucks,2914.0,10014,"[40.740445, -74.005008]",starbucks
+Starbucks,1806.0,11201,"[40.702692, -73.99099]",starbucks
+Starbucks,1456.0,10002,"[40.719332, -73.989898]",starbucks
+Starbucks,1686.0,10012,"[40.72727, -73.995536]",starbucks
+Starbucks,2304.0,07302,"[40.715827, -74.033365]",starbucks
+Starbucks,1405.0,10004,"[40.702173, -74.012046]",starbucks
+Starbucks,1272.0,10013,"[40.725757, -74.005561]",starbucks
+Starbucks,2126.0,10003,"[40.730073, -73.99163]",starbucks
+Starbucks,2412.0,11201,"[40.694525, -73.993898]",starbucks
+Starbucks,3104.0,11201,"[40.690797, -73.986204]",starbucks
+Starbucks,3058.0,07302,"[40.719428, -74.041672]",starbucks
+Starbucks,645.0,10007,"[40.710323, -74.011802]",starbucks
+Starbucks,4077.0,10001,"[40.749124, -73.991375]",starbucks
+Starbucks,2899.0,11201,"[40.691703, -73.988596]",starbucks
+Starbucks,3271.0,11201,"[40.689191, -73.985793]",starbucks
+Starbucks,2949.0,07310,"[40.72872, -74.03528]",starbucks
+Starbucks,3194.0,11201,"[40.691112, -73.982552]",starbucks
+Starbucks,1911.0,10003,"[40.724786, -73.987668]",starbucks
+Starbucks,3575.0,07030,"[40.740618, -74.030256]",starbucks
+Starbucks,2649.0,10011,"[40.737058, -73.996621]",starbucks
+Starbucks,885.0,10005,"[40.706311, -74.006624]",starbucks
+Starbucks Reserve,2527.0,10011,"[40.736623, -74.000708]",starbucks
+Stuyvesant High School,713.0,10282,"[40.717978, -74.013896]",school
+Battery Park City School,1314.0,10280,"[40.706445, -74.017539]",school
+The New School,2478.0,10011,"[40.735535, -73.997085]",school
+Avenues: The World School,3900.0,10001,"[40.749393, -74.003309]",school
+Brooklyn Music School,3953.0,11217,"[40.686076, -73.977383]",school
+The New School Auditorium at 66W 12th,2498.0,10011,"[40.735588, -73.99713]",school
+HB Studio,2449.0,10014,"[40.73606, -74.007541]",school
+The New School,2787.0,10011,"[40.737011, -73.992383]",school
+Ps 343,710.0,10038,"[40.708647, -74.002047]",school
+Elisabeth Irwin High School,1420.0,10014,"[40.726908, -74.004865]",school
+Lrei,1726.0,10014,"[40.729362, -74.001906]",school
+Ps 184 Shuang Wen,1747.0,10002,"[40.711412, -73.985616]",school
+Grace Church High School,2019.0,10003,"[40.728679, -73.991313]",school
+Nest,2292.0,10002,"[40.719394, -73.979599]",school
+Public School 307,2437.0,11201,"[40.701757, -73.981703]",school
+P.S. 41,2455.0,10011,"[40.735533, -73.999137]",school
+Packer Collegiate Institute,2658.0,11201,"[40.692516, -73.992423]",school
+High School for Health Professions and Human Services,2806.0,10003,"[40.732526, -73.982688]",school
+Xavier High School,2819.0,10011,"[40.738023, -73.994868]",school
+Ps 340,2913.0,10011,"[40.738931, -73.99521]",school
+Corlears School,2967.0,10011,"[40.74071, -74.003184]",school
+P.S. 29 Auditorium,3114.0,11201,"[40.686926, -73.997743]",school
+Brooklyn Heights Montessori School,3148.0,11201,"[40.687865, -73.992938]",school
+Ps 261 Philip Livingston,3346.0,11201,"[40.687179, -73.988418]",school
+Scandinavian School of Jersey City,3402.0,07302,"[40.728267, -74.041942]",school
+High School of Fashion Industries,3622.0,10011,"[40.745642, -73.996391]",school
+Cobble Hill Playschool,3713.0,11231,"[40.680757, -74.002559]",school
+Public School 33,3900.0,10001,"[40.749045, -74.000238]",school
+Public School 20-Clinton Hill,3935.0,11205,"[40.691044, -73.971077]",school
+Ps 32 Samuels Mills Sprole,3944.0,11231,"[40.680404, -73.991729]",school
+PS 5 - Dr Michael Conti School,4016.0,07302,"[40.724111, -74.051815]",school
+Ps 133 William A Butler,4341.0,11217,"[40.680058, -73.980637]",school
+Basis Independent Brooklyn,4568.0,11231,"[40.67309, -74.008928]",school
+Public School 11,4658.0,11238,"[40.685524, -73.965846]",school
+Brooklyn Preschool of Science,4660.0,11217,"[40.679046, -73.976193]",school
+Jotham W. Wakeman Public School Number 6,4797.0,07306,"[40.736051, -74.055051]",school
+CUNY Graduate School of Journalism,4798.0,10018,"[40.755555, -73.989006]",school
+Ps 282 Park Slope,4819.0,11217,"[40.676629, -73.977843]",school
+Hudson Table,4869.0,11211,"[40.716831, -73.948554]",school
+Public School 9,5253.0,11238,"[40.678301, -73.965828]",school
+Ps 321 William Penn,5294.0,11215,"[40.671611, -73.97804]",school
+Ps 51 Elias Howe,5318.0,10036,"[40.76163, -73.995798]",school
+Ps 124 Silas B Dutcher,5333.0,11215,"[40.667497, -73.990611]",school
+Mark Hopkins Junior High School,5342.0,11206,"[40.696922, -73.946918]",school
+Ps 39 School Custodian,5418.0,11215,"[40.668674, -73.982983]",school
+"Poly Prep Country Day School, Lower School",5687.0,11215,"[40.669421, -73.973289]",school
+Public School 316,5800.0,11238,"[40.6745, -73.960841]",school
+P.S. 111 Adolph S. Ochs,5927.0,10019,"[40.766058, -73.989725]",school
+Williamsburg Northside Preschool,3992.0,11211,"[40.716241, -73.958483]",school
+Beansprouts 6th Ave,5385.0,11215,"[40.667569, -73.983987]",school
+Paul's Cocktail Lounge,593.0,10013,"[40.719413, -74.004786]",night_club
+Le Bain,2960.0,10014,"[40.740898, -74.00817]",night_club
+Nublu,2383.0,10009,"[40.722519, -73.979722]",night_club
+The Box,1446.0,10002,"[40.721856, -73.992267]",night_club
+Nublu 151,2672.0,10009,"[40.725639, -73.978053]",night_club
+The Blond,743.0,10013,"[40.71916, -74.000193]",night_club
+Bembe,3448.0,11249,"[40.711047, -73.965134]",night_club
+PHD Rooftop Lounge at Dream Downtown,3107.0,10011,"[40.742102, -74.003589]",night_club
+Good Room,4679.0,11222,"[40.726855, -73.952868]",night_club
+Friends and Lovers,5615.0,11238,"[40.678552, -73.958468]",night_club
+Hunk-O-Mania,4757.0,10018,"[40.755599, -73.991367]",night_club
+Somewhere Nowhere NYC,3521.0,10001,"[40.744338, -73.992759]",night_club
+Nexus Lounge,1774.0,10009,"[40.723263, -73.988132]",night_club
+Frim Fram Jam,4096.0,10001,"[40.750057, -73.994774]",night_club
+TBA Brooklyn,3348.0,11249,"[40.711122, -73.966359]",night_club
+Pacific BK,5619.0,11238,"[40.67905, -73.958007]",night_club
+Marquee,3990.0,10001,"[40.75004, -74.002688]",night_club
+Masquerade,4296.0,11211,"[40.707905, -73.95563]",night_club
+Paradise Garage,1520.0,10014,"[40.727838, -74.006386]",night_club
+Ciao Ciao,4110.0,11249,"[40.720956, -73.957661]",night_club
+The 40/40 CLUB by Tanduay Rum,4267.0,11217,"[40.682628, -73.975286]",night_club
+Chelsea Music Hall,3060.0,10011,"[40.742004, -74.005201]",night_club
+KAI studio,5791.0,11238,"[40.678063, -73.956617]",night_club
+Mehanata Bulgarian Bar,1555.0,10002,"[40.719521, -73.988902]",night_club
+Liberty Hall at Ace Hotel,3817.0,10001,"[40.745649, -73.988181]",night_club
+House of X,1535.0,10002,"[40.722996, -73.992007]",night_club
+The Roof Top,5331.0,10036,"[40.760132, -73.987351]",night_club
+FOUR At Hotel YOTEL,5104.0,10036,"[40.759321, -73.995402]",night_club
+Swing 46,5343.0,10036,"[40.76077, -73.989692]",night_club
+Nebula,4824.0,10036,"[40.754943, -73.985706]",night_club
+Schimanski NYC,4063.0,11249,"[40.722003, -73.958836]",night_club
+Rosewood Theatre,4889.0,10018,"[40.757856, -73.999669]",night_club
+StarDust,5130.0,10036,"[40.759834, -73.996383]",night_club
+Home Sweet Home,1215.0,10002,"[40.719398, -73.993437]",night_club
+Sugar Hill Supper Club,5211.0,11216,"[40.691568, -73.951554]",night_club
+Stage 48,5685.0,10036,"[40.765025, -73.995976]",night_club
+Lu Lu Lounge,3308.0,07030,"[40.739234, -74.027624]",night_club
+Club Cache,2526.0,10036,"[40.758002, -73.980322]",night_club
+Superior Ingredients,4184.0,11249,"[40.722301, -73.957756]",night_club
+The Palace,769.0,10013,"[40.721036, -74.004589]",night_club
+Rex Club,1074.0,10005,"[40.704799, -74.008703]",night_club
+Virgo,1352.0,10002,"[40.71727, -73.990341]",night_club
+Outer Heaven,1436.0,10002,"[40.721847, -73.992153]",night_club
+I Love Vinyl at The Gallery at LPR,1650.0,10012,"[40.728389, -73.99999]",night_club
+Writing On The Wall,1939.0,10002,"[40.722359, -73.985652]",night_club
+Mission Nightclub,3854.0,10001,"[40.748059, -73.994827]",night_club
+S.O.B.'s,1573.0,10014,"[40.728357, -74.00514]",night_club
+Discolo,3231.0,10011,"[40.743396, -74.00757]",night_club
+Jolene Sound Room,3626.0,11211,"[40.711374, -73.963008]",night_club
+Nebula Night Club,4824.0,10036,"[40.75489, -73.98566]",night_club
+Pet Central,2843.0,10011,"[40.73871, -73.995376]",pet
+Pet Central,3467.0,10011,"[40.744922, -73.997105]",pet
+Pet Central Second Avenue,4537.0,10016,"[40.747262, -73.974399]",pet
+Pet Central,4248.0,10016,"[40.748016, -73.982465]",pet
+PS9 Pet Supplies,4231.0,11211,"[40.718787, -73.956049]",pet
+NYC Pet 171838747,3572.0,11249,"[40.718467, -73.963981]",pet
+Love Thy Pet,3413.0,11231,"[40.683605, -74.000927]",pet
+Jersey City Unleashed Pet Resort and Spa,3515.0,07310,"[40.732695, -74.039807]",pet
+Fussy Friends Pet Supply,3276.0,07302,"[40.720608, -74.043859]",pet
+NYC Pet,4042.0,11205,"[40.693158, -73.966666]",pet
+Doggie Styles Pet Grooming,3930.0,11211,"[40.711202, -73.959379]",pet
+Hoboken Pet,3749.0,07030,"[40.743016, -74.029392]",pet
+Cozy Cuts Pet Grooming,4200.0,07030,"[40.743718, -74.037238]",pet
+Walter's Pet Styles,4129.0,10016,"[40.745053, -73.978287]",pet
+Pacific Aquarium & Plant,1361.0,10002,"[40.719775, -73.991444]",pet
+Le Pet Spa,1042.0,10280,"[40.708983, -74.017422]",pet
+Whiskers Holistic Petcare,2282.0,10003,"[40.729482, -73.987546]",pet
+Doggy Style,2252.0,10003,"[40.732536, -73.994303]",pet
+Boris & Horton,2652.0,10009,"[40.729374, -73.981561]",pet
+Happy Paws,1527.0,10012,"[40.725387, -73.995331]",pet
+Love Thy Beast,1999.0,10003,"[40.726484, -73.988695]",pet
+Koneko,1950.0,10002,"[40.72046, -73.984093]",pet
+Wag Club,2441.0,11201,"[40.693289, -73.999695]",pet
+Meow Parlour,1338.0,10002,"[40.715601, -73.990232]",pet
+BeastyFeast,2908.0,10014,"[40.740588, -74.003703]",pet
+The Pet Bar,1430.0,10012,"[40.726421, -74.00096]",pet
+Zoomies,1835.0,10014,"[40.730748, -74.006501]",pet
+NYC Pet,4755.0,11215,"[40.676059, -73.981005]",pet
+School For The Dogs,1971.0,10009,"[40.722637, -73.985357]",pet
+Unleashed Spa & Self Service Dog Wash,2841.0,10009,"[40.72897, -73.978533]",pet
+Brooklyn Cat Cafe,2273.0,11201,"[40.695162, -73.996235]",pet
+Ruff Club,2005.0,10009,"[40.723343, -73.985167]",pet
+Unleashed by Petco,5092.0,11217,"[40.674768, -73.974893]",pet
+District Dog,5295.0,11222,"[40.723199, -73.944346]",pet
+Zee.Dog - SoHo,985.0,10013,"[40.722074, -74.000133]",pet
+Happy Dogs,4523.0,11211,"[40.719247, -73.952968]",pet
+Citipups Chelsea,3099.0,10011,"[40.742058, -74.001229]",pet
+Fresh Paws Bath House,4586.0,11211,"[40.717125, -73.951664]",pet
+The Salty Paw,836.0,10038,"[40.707471, -74.001652]",pet
+Cornerstone Pets,4123.0,07030,"[40.747203, -74.028206]",pet
+Barc Shelter,3574.0,11249,"[40.716151, -73.963848]",pet
+Hound About Town,3538.0,07302,"[40.727292, -74.044042]",pet
+The Dog Institute of Williamsburg,4157.0,11211,"[40.714842, -73.956377]",pet
+Petopia,1968.0,10009,"[40.723272, -73.985819]",pet
+Banfield Pet Hospital,3058.0,11201,"[40.689097, -73.991242]",pet
+Wooftown,2152.0,10014,"[40.733619, -74.004083]",pet
+Woofs 'n Whiskers,3838.0,11231,"[40.679403, -74.004773]",pet
+West Village Veterinary Hospital,2826.0,10014,"[40.739582, -74.003008]",pet
+Bff Petwash,5140.0,11222,"[40.7231, -73.946045]",pet
+Hound About Town,3260.0,07302,"[40.71779, -74.044356]",pet
+Basketball City,1841.0,10002,"[40.709975, -73.984905]",basketball_court
+Basketball Court,3007.0,10009,"[40.732496, -73.97955]",basketball_court
+Hudson River Park Basketball Court,773.0,10282,"[40.718816, -74.012838]",basketball_court
+West 4th Street Courts,1933.0,10012,"[40.731534, -74.00138]",basketball_court
+Basketball Courts,1346.0,10014,"[40.725597, -74.011405]",basketball_court
+Chrystie St Co.,1621.0,10002,"[40.718687, -73.993801]",basketball_court
+Jordan Terminal 23,4095.0,10001,"[40.749368, -73.990336]",basketball_court
+McBurney YMCA,2708.0,10011,"[40.737997, -73.997793]",basketball_court
+"Nicholas Naquan Heyward, Jr Park",3598.0,11217,"[40.68486, -73.988458]",basketball_court
+Church Square Park,3806.0,07030,"[40.742235, -74.032287]",basketball_court
+Elysian Park,4187.0,07030,"[40.748175, -74.026192]",basketball_court
+Newtown Barge Park,4536.0,11222,"[40.736603, -73.957479]",basketball_court
+Coffey Park,4076.0,11231,"[40.67768, -74.00863]",basketball_court
+Augustus Saint-Gaudens Playground,3101.0,10003,"[40.735623, -73.981893]",basketball_court
+British Basketball Association US Headquarters,547.0,10007,"[40.710421, -74.010191]",basketball_court
+Sugar NYC,561.0,10038,"[40.70934, -74.006308]",basketball_court
+Grand Canal Court,896.0,10013,"[40.72243, -74.004906]",basketball_court
+45 Wall Basketball Court,959.0,10005,"[40.706223, -74.00985]",basketball_court
+15 William Basketball Court,1047.0,10005,"[40.705455, -74.010343]",basketball_court
+Lehman High School Gym,1223.0,10004,"[40.705655, -74.014889]",basketball_court
+Houston Street Park,1639.0,10012,"[40.728869, -74.002192]",basketball_court
+Masaryk Basketball,2188.0,10002,"[40.717319, -73.980566]",basketball_court
+Ennis Playground,4934.0,11215,"[40.670645, -73.993787]",basketball_court
+BTSH Hockey League,2484.0,10009,"[40.724144, -73.981487]",basketball_court
+Tompkins Square Park Basketball Courts,2555.0,10009,"[40.726974, -73.98055]",basketball_court
+Peter Aquilone Court,2626.0,11201,"[40.693279, -73.992104]",basketball_court
+Playground 9- Basketball Court/Sprinklers,2992.0,10009,"[40.732175, -73.979706]",basketball_court
+St Anthony High School,3331.0,07302,"[40.726294, -74.04112]",basketball_court
+William Sheridan Courts,3489.0,11211,"[40.715369, -73.964865]",basketball_court
+Hamilton Park Basketball Court,3639.0,07302,"[40.726617, -74.045063]",basketball_court
+Church Square Park Basketball Courts,3761.0,07030,"[40.742041, -74.031493]",basketball_court
+Basketball Gym At The Dylan,3992.0,10118,"[40.746752, -73.985298]",basketball_court
+McCarren Park Basketball Courts,4151.0,11211,"[40.717093, -73.956901]",basketball_court
+The Post,4517.0,11222,"[40.725146, -73.954243]",basketball_court
+Francis Scott Key Jr High School,4704.0,11205,"[40.692571, -73.958398]",basketball_court
+Robert Moses Basketball Courts,4884.0,10017,"[40.748117, -73.968711]",basketball_court
+UN Basketball Courts,4907.0,10017,"[40.748117, -73.968711]",basketball_court
+14th Street Viaduct Basketball Court,5091.0,07030,"[40.754543, -74.034048]",basketball_court
+Sholes Basketball Court,5168.0,11206,"[40.708989, -73.945329]",basketball_court
+ABC Hoops NYC Midtown West Arena,5629.0,10019,"[40.763766, -73.990683]",basketball_court
+Gregory Park,5795.0,07086,"[40.7638, -74.02708]",basketball_court
+Cooper Park Basketball Courts,5876.0,11211,"[40.715763, -73.936031]",basketball_court
+Brooklyn Stuy Dome,5961.0,11221,"[40.691449, -73.941909]",basketball_court
+Alfred E Smith Recreation Center,837.0,10038,"[40.710458, -73.996925]",basketball_court
+Nelson A. Rockefeller Park,955.0,10282,"[40.71776, -74.015939]",basketball_court
+William F. Passannante Ballfield,1603.0,10012,"[40.728433, -74.002349]",basketball_court
+Pier 42 Court,2022.0,10002,"[40.709986, -73.982505]",basketball_court
+Baruch College 6th Floor Gymnasium,3315.0,10010,"[40.739061, -73.984429]",basketball_court
+Tompkins Square Park,2452.0,10003,"[40.732033, -73.988956]",basketball_court
+Angel Ramos Park,3431.0,07302,"[40.719894, -74.046275]",basketball_court
+Le Pet Spa,1042.0,10280,"[40.708983, -74.017422]",pet_grooming
+Pet Central,2843.0,10011,"[40.73871, -73.995376]",pet_grooming
+Pet Shop,3463.0,07302,"[40.721307, -74.045896]",pet_grooming
+NYC Pet 171838747,3572.0,11249,"[40.718467, -73.963981]",pet_grooming
+Akwa Grooming,4782.0,11238,"[40.683571, -73.966294]",pet_grooming
+Love Thy Pet,3413.0,11231,"[40.683605, -74.000927]",pet_grooming
+Jersey City Unleashed Pet Resort and Spa,3515.0,07310,"[40.732695, -74.039807]",pet_grooming
+Barba Men's Grooming Boutique,3166.0,10011,"[40.74234, -73.998794]",pet_grooming
+PS9 Pet Supplies,4231.0,11211,"[40.718787, -73.956049]",pet_grooming
+Fussy Friends Pet Supply,3276.0,07302,"[40.720608, -74.043859]",pet_grooming
+The Pet Bar,1430.0,10012,"[40.726421, -74.00096]",pet_grooming
+NYC Pet,4042.0,11205,"[40.693158, -73.966666]",pet_grooming
+Pet Central,3467.0,10011,"[40.744922, -73.997105]",pet_grooming
+Hoboken Pet,3749.0,07030,"[40.743016, -74.029392]",pet_grooming
+Doggie Styles Pet Grooming,3930.0,11211,"[40.711202, -73.959379]",pet_grooming
+Adrian Fanus Grooming,4872.0,11205,"[40.690935, -73.95707]",pet_grooming
+Aqua Star Pet Shop,881.0,10002,"[40.712648, -73.995702]",pet_grooming
+Cozy Cuts Pet Grooming,4200.0,07030,"[40.743718, -74.037238]",pet_grooming
+Towne House Grooming,3631.0,10001,"[40.746203, -73.997593]",pet_grooming
+Pet Island II,1467.0,10002,"[40.716444, -73.988999]",pet_grooming
+Banfield Pet Hospital,3058.0,11201,"[40.689097, -73.991242]",pet_grooming
+Czar's Grooming,1554.0,10002,"[40.718084, -73.988191]",pet_grooming
+Pet Promise,1933.0,11201,"[40.703586, -73.98784]",pet_grooming
+Happy Paws Dog Grooming,3128.0,10010,"[40.738556, -73.987116]",pet_grooming
+Mdm Grooming Salon,3388.0,10011,"[40.743352, -73.993331]",pet_grooming
+American Academy of Pet Grooming,3490.0,10010,"[40.739934, -73.982061]",pet_grooming
+Carroll Gardens Pet Grooming,3735.0,11231,"[40.682864, -73.990473]",pet_grooming
+Waggy Butts Pet Grooming,5410.0,07307,"[40.746715, -74.053782]",pet_grooming
+Paws And Suds Pet Grooming,5599.0,07087,"[40.756193, -74.042721]",pet_grooming
+Jersey City Mobile Pet Grooming,5635.0,07302,"[40.718461, -74.072714]",pet_grooming
+Happy Tails Holistic Pet Grooming,5556.0,11222,"[40.723501, -73.941128]",pet_grooming
+Paws and Suds Pet Grooming,5714.0,07306,"[40.744635, -74.060729]",pet_grooming
+Red Bamboo,1952.0,10012,"[40.731292, -74.000367]",vegan
+Juice Press,438.0,10007,"[40.714877, -74.010935]",vegan
+Le Botaniste,852.0,10013,"[40.720348, -74.000153]",vegan
+Franchia,4248.0,10016,"[40.747505, -73.981396]",vegan
+The Butcher's Daughter,1167.0,10012,"[40.720658, -73.994708]",vegan
+Buddha Bodai,616.0,10013,"[40.713803, -73.998847]",vegan
+Dirt Candy,1322.0,10002,"[40.717855, -73.99067]",vegan
+Vinnie's Pizzeria,4185.0,11249,"[40.718927, -73.956884]",vegan
+Wild Ginger,3234.0,11201,"[40.687895, -73.989842]",vegan
+Modern Love Brooklyn,4654.0,11211,"[40.709803, -73.951208]",vegan
+Jajaja,1331.0,10002,"[40.714141, -73.990393]",vegan
+Beyond Sushi,5979.0,10019,"[40.763216, -73.977074]",vegan
+sweetgreen,2366.0,07302,"[40.715001, -74.033986]",vegan
+Nish Nush,567.0,10038,"[40.70951, -74.007973]",vegan
+Natural Blend,5775.0,11238,"[40.673855, -73.962778]",vegan
+Paulie Gee's,4352.0,11222,"[40.729615, -73.958562]",vegan
+Guevara’s,4657.0,11238,"[40.688028, -73.962934]",vegan
+Sweetgreen,1862.0,11201,"[40.702778, -73.989816]",vegan
+Sweetgreen,2920.0,10003,"[40.738122, -73.991204]",vegan
+V Spot Cafe,4605.0,11217,"[40.678092, -73.979558]",vegan
+Sweetgreen,3944.0,11211,"[40.715873, -73.959168]",vegan
+Sweetgreen,3693.0,10001,"[40.744828, -73.988629]",vegan
+Hana Food,4615.0,11211,"[40.713907, -73.951017]",vegan
+Subia's Organic Market,3511.0,07302,"[40.720151, -74.046765]",vegan
+Van Leeuwen Ice Cream,2143.0,10003,"[40.727748, -73.987828]",vegan
+Van Leeuwen Ice Cream,2271.0,10014,"[40.734346, -74.001142]",vegan
+Sweetgreen,980.0,10005,"[40.70556, -74.008471]",vegan
+Nish Nush,204.0,10013,"[40.715669, -74.007606]",vegan
+Whole Foods,477.0,10007,"[40.715564, -74.011443]",vegan
+Takahachi,308.0,10013,"[40.716631, -74.007906]",vegan
+Cocoron & Goemon Curry,1279.0,10002,"[40.720379, -73.993039]",vegan
+Alamo Drafthouse Lower Manhattan,760.0,10005,"[40.707811, -74.008997]",vegan
+Khe-Yo,352.0,10013,"[40.716938, -74.008529]",vegan
+Alimama,601.0,10013,"[40.715736, -73.999185]",vegan
+Sweetgreen,1772.0,10014,"[40.729995, -74.002455]",vegan
+Scarr's Pizza,1218.0,10002,"[40.71574, -73.991637]",vegan
+Van Leeuwen Ice Cream,3744.0,11249,"[40.718415, -73.961884]",vegan
+Punjabi Grocery & Deli,1840.0,10009,"[40.722712, -73.986582]",vegan
+Clementine Bakery,4902.0,11238,"[40.687581, -73.959514]",vegan
+Pause Cafe,2008.0,10002,"[40.721159, -73.984164]",vegan
+Kiki's,1173.0,10002,"[40.714589, -73.991763]",vegan
+Spicy Village,1091.0,10002,"[40.716974, -73.993298]",vegan
+Van Leeuwen Artisan Ice Cream,4768.0,11222,"[40.72363, -73.95043]",vegan
+Taïm Falafel and Smoothie Bar,1179.0,10012,"[40.722023, -73.996072]",vegan
+Westville,1444.0,10013,"[40.727156, -74.007669]",vegan
+787 Coffee,1266.0,10004,"[40.703449, -74.010743]",vegan
+Ground Support,1159.0,10012,"[40.724345, -74.001926]",vegan
+Mudspot,2308.0,10003,"[40.729074, -73.986657]",vegan
+Breads Bakery,2754.0,10003,"[40.736592, -73.99193]",vegan
+Bwè Kafe,2853.0,07310,"[40.731038, -74.0314]",vegan
